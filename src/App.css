@@ -1,21 +1,4 @@
-.APP {
+.App {
   width: 100%;
-}
-
-@media (min-width: 768px) and (min-width: 1024px) {
-  .container {
-    padding-left: 2.25rem;
-    padding-right: 2.25rem;
-  }
-}
-
-@media (min-width: 416px) {
-  .container {
-    padding-left: 3rem;
-    padding-right: 3rem;
-  }
-}
-
-.header {
-  padding: 1.75rem 0 1.75rem
+  height: 2000px;
 }
